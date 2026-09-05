@@ -1,0 +1,8 @@
+{
+  "name": "GravitySlides AI - 3D Antigravity Presentation Generator",
+  "description": "Generate stunning PowerPoint presentations from any student topic using Google Search data, student-friendly simplification, curated images, dedicated templates, and an interactive 3D antigravity environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
